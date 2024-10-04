@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-countaner{
+    width: 1200px;
+    max-width: 100%;
+}
+.section-one{
+    width: 1200px;
+    max-width: 100%;
+}
+.section-first-image{
+    background-image: url();
+}
